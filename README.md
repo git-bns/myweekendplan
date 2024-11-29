@@ -1,2 +1,2 @@
-# myweekendplan
-My Weekend Plan
+# My Weekend Plan
+My Weekend Plan Tour Planner
